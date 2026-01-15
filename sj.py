@@ -1,9 +1,9 @@
 
 
 import random
-import matplotlib.pyplot as plt
+
 import streamlit as st
-import pandas as pd
+
 
 # 감정별 키워드와 공감 답변
 emotion_data = {
