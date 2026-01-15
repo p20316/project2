@@ -2,7 +2,7 @@
 
 import random
 
-import streamlit as st
+
 
 
 # 감정별 키워드와 공감 답변
